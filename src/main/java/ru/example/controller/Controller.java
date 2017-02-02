@@ -1,4 +1,4 @@
-package ru.example;
+package ru.example.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.springframework.beans.factory.annotation.Autowired;
